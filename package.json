@@ -1,0 +1,13 @@
+{
+  "name": "yarntest",
+  "version": "1.0.0",
+  "description": "Testing yarn for a school assignment",
+  "main": "index.js",
+  "repository": "https://github.com/gryaina/yarn",
+  "author": "Gry Lauritsen",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
